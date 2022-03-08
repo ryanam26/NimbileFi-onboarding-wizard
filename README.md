@@ -6,6 +6,10 @@ Nimbilefi Onboarding Wizard was bootstrapped with [Create React App](https://git
 
 In the project directory, you can run:
 
+### `npm install`
+
+If you are running this first time, or after adding any new packages, make sure you run `npm install` to install all the necessary packages.
+
 ### `npm start`
 
 Runs the app in the development mode.\
